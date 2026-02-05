@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @oselo3
+- 👋 Hi, I’m @oselo3 (Ebenezer Olumeyan)
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Python and Django
+- 🌱 I’m currently learning how to use AI to build tech solutions
 - 💞️ I’m looking to collaborate on related software projects
 - 📫 How to reach me oselo3@gmail.com
 

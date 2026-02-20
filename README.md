@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @oselo3 (Ebenezer Olumeyan)
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning how to use AI to build tech solutions
-- 💞️ I’m looking to collaborate on related software projects
+- 👀 I’m building AI-powered infrastructure systems
+- 🌱 I’m currently focused on RAG pipelines, local LLM deployment, and scalable cloud architectures.
+- 💞️ I’m looking to collaborate on related projects
 - 📫 How to reach me oselo3@gmail.com
 
 <!---

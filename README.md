@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @oselo3 (Ebenezer Olumeyan)
-- 👀 I’m building AI-powered infrastructure systems
-- 🌱 I’m currently focused on RAG pipelines, local LLM deployment, and scalable cloud architectures.
-- 💞️ I’m looking to collaborate on related projects
-- 📫 How to reach me oselo3@gmail.com
+### Hi, I'm Ebenezer 👋 ([@oselo3](https://github.com/oselo3))
+
+- 👀 I'm building AI-powered infrastructure systems for offline and resource-constrained environments
+- 🌱 Currently focused on RAG pipelines, local LLM deployment, and scalable cloud architectures
+- 💞️ Looking to collaborate on projects in AI infrastructure, DevOps, or offline-first systems
+- 📫 Reach me at oselo3@gmail.com
 
 <!---
 oselo3/oselo3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
